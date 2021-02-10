@@ -1,4 +1,5 @@
-# `Hi, i'm - zak`
+# Hi
+## `I'm - Zakovskiy`
 
 Designer, dota player and self-teaching computer engineer.
 
