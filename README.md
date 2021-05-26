@@ -12,4 +12,4 @@ Studying software development, hardware, game develop, framework.
 
 ## Contacts
 * Telegram - [@zakovskiy](https://t.me/zakovskiy)
-* VK - [@zzakkkzzzzzzz](https://vk.com/zzakkkzzzzzzz)
+* VK - [@zkvsk](https://vk.com/zkvsk)
