@@ -2,4 +2,4 @@
 
 ## 📝 Contacts
 * ✈️ Telegram - [@zakovskiy](https://t.me/zakovskiy)
-* 🎙️ Discord - [lair of the zak](https://discord.gg/AsYzxRfT6J)
+* 🎙️ Discord - [lair of the zakovskiy](https://discord.gg/AsYzxRfT6J)
