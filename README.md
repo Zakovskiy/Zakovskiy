@@ -1,6 +1,6 @@
-# 👋 Hi 
+# 👋 hi 
 
-## 📝 Contacts
-* ✈️ Telegram - [@zakovskiy](https://t.me/zakovskiy)
-* 🎙️ Discord - [lair of the zakovskiy](https://discord.gg/AsYzxRfT6J)
-* 📹 YouTube - [@zakovskiy](https://www.youtube.com/@zakovskiy)
+## 📝 contacts
+* ✈️ tg - [@zakovskiy](https://t.me/zakovskiy)
+* 🎙️ ds - [lair of the zakovskiy](https://discord.gg/AsYzxRfT6J)
+* 📹 yt - [@zakovskiy](https://www.youtube.com/@zakovskiy)
